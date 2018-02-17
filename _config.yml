@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I highly recommend anyone to try hosting their own static website through the
   aforementioned method.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stevenlee090.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
