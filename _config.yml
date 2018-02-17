@@ -18,11 +18,11 @@ email: stevenlee090@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Steven's Blog! This website is created with GitHub Pages & Jekyll.
   I highly recommend anyone to try hosting their own static website through the
-  aforementioned method.
+  aforementioned method as it is completely free!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stevenlee090.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: stevenlee090
+github_username:  stevenlee090
 
 # Build settings
 markdown: kramdown
