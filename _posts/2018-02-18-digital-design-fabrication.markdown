@@ -2,7 +2,9 @@
 title: "Digital Design and Fabrication Project"
 layout: post
 date: 2018-02-18 14:26
-tag: architecture design
+tag:
+- architecture
+- design
 image: /assets/images/ddf1.jpg
 headerImage: false
 projects: true
@@ -13,7 +15,7 @@ author: stevenlee
 externalLink: false
 ---
 
-![Markdowm Image](/assets/images/ddf1.jpg)
+![Final Product Image](/assets/images/ddf1.jpg)
 <figcaption class="caption">Photo by Steven Lee</figcaption>
 
 ---
