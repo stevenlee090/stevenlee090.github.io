@@ -1,5 +1,5 @@
 ---
-title: "Window Managers"
+title: "Tiling Window Manager (chunkwm)"
 layout: post
 date: 2018-02-18 21:52
 image: /assets/images/markdown.jpg
