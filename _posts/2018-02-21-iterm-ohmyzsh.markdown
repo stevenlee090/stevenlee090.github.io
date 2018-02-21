@@ -2,7 +2,7 @@
 title: "iTerm2 and Oh My Zsh"
 layout: post
 date: 2018-02-21 21:21
-image: /assets/images/markdown.jpg
+image: /assets/images/iterm.png
 headerImage: false
 tag:
 - iterm
@@ -14,8 +14,8 @@ author: stevenlee
 description: iTerm2 terminal setup in macOS
 ---
 
-![chunkwm Window Manager](/assets/images/chunkwm.jpg)
-<figcaption class="caption">chunkwm for macOS</figcaption>
+![iTerm2](/assets/images/iterm.png)
+<figcaption class="caption">iTerm2 with Nord Colour Scheme</figcaption>
 
 ---
 
@@ -28,4 +28,4 @@ Steps taken for the setup:
 
 All the tweaks and plugins mentioned in Step 2 are all pretty useful. I would highly recommend going over the list and see if any of them would be beneficial.
 
-One particular theme worth mentioning is the [Nord iTerm2 colour scheme](https://github.com/arcticicestudio/nord-iterm2), which is clean and elegant. I really like the clean and subtle look of the colour palette used for this theme.
+One particular iTerm2 theme worth mentioning is the [Nord iTerm2 colour scheme](https://github.com/arcticicestudio/nord-iterm2), which is clean and elegant. I really like the clean and subtle look of the colour palette used for this theme.
