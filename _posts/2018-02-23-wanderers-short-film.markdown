@@ -18,6 +18,8 @@ description: Wanderers Short Film & Used Car Commercial
 
 [![Wanderers Short Film](https://img.youtube.com/vi/YH3c1QZzRK4/0.jpg)](https://www.youtube.com/watch?v=YH3c1QZzRK4)
 
+(*Click on the snapshot to open the video on YouTube*)
+
 ---
 
 For the past few years, I have devoted a significant portion of my spare time to pursue my interests in photography and cinematography. This journey has been very taught me more than I have ever imagined.
@@ -33,9 +35,3 @@ I would like to highlight two particular short films which caught my attention, 
 The second short film had a rather interesting origin, as it was originally filmed to [help sell a 1996 Honda Accord](https://www.reddit.com/r/videos/comments/7ae860/my_girlfriend_needs_to_sell_her_car_to_help_her_i/). This project became rather popular across various popular sites such as [The Verge](https://www.theverge.com/2017/11/4/16607220/honda-accord-luxury-is-a-state-of-mind-car-commercial-watch) when it was uploaded. The production quality was professional, with some humorous terms and conditions towards the end.
 
 Ultimately, these two short films have set my benchmark for the videos and cinematography projects which I will be working on in the future.
-
----
-
-<iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
-
----
