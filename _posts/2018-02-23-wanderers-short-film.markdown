@@ -16,7 +16,7 @@ author: stevenlee
 description: Wanderers Short Film & Used Car Commercial
 ---
 
-{% youtube "https://www.youtube.com/watch?v=YH3c1QZzRK4" %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/YH3c1QZzRK4?color=white&theme=light"></iframe>
 
 ---
 
@@ -26,7 +26,7 @@ I would like to highlight two particular short films which caught my attention, 
 
 ---
 
-{% youtube "https://www.youtube.com/watch?v=4KlNeiY4Rf4" %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/4KlNeiY4Rf4?color=white&theme=light"></iframe>
 
 ---
 
