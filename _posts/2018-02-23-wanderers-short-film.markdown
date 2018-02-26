@@ -1,5 +1,5 @@
 ---
-title: "Short Films Showcase"
+title: "Wanderers Short Film"
 layout: post
 date: 2018-02-23 00:18
 image: /assets/images/iterm.png
