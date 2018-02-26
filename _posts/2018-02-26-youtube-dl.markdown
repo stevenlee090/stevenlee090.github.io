@@ -1,5 +1,5 @@
 ---
-title: "youtube-dl plugin"
+title: "YouTube Download Plugin"
 layout: post
 date: 2018-02-26 10:04
 image: /assets/images/iterm.png
