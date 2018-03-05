@@ -1,7 +1,7 @@
 ---
 title: "Digital Design and Fabrication Project"
 layout: post
-date: 2018-02-18 14:26
+date: 2017-06-08 20:00
 tag:
 - architecture
 - design
