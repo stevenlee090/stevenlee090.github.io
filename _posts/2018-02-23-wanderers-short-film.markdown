@@ -30,6 +30,8 @@ I would like to highlight two particular short films which caught my attention, 
 
 [![1996 Honda Accord Commercial](https://img.youtube.com/vi/4KlNeiY4Rf4/0.jpg)](https://www.youtube.com/watch?v=4KlNeiY4Rf4)
 
+(*Click on the snapshot to open the video on YouTube*)
+
 ---
 
 The second short film had a rather interesting origin, as it was originally filmed to [help sell a 1996 Honda Accord](https://www.reddit.com/r/videos/comments/7ae860/my_girlfriend_needs_to_sell_her_car_to_help_her_i/). This project became rather popular across various popular sites such as [The Verge](https://www.theverge.com/2017/11/4/16607220/honda-accord-luxury-is-a-state-of-mind-car-commercial-watch) when it was uploaded. The production quality was professional, with some humorous terms and conditions towards the end.

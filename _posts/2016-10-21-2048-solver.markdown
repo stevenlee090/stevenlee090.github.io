@@ -1,0 +1,61 @@
+---
+title: "2048 Solver"
+layout: post
+date: 2016-10-21 12:00
+tag:
+- C
+- Programming
+- Algorithms
+- Data Structures
+- Dijkstra
+image: # /assets/images/ddf1.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "2048 solver project using C programming language."
+category: project
+author: stevenlee
+externalLink: false
+---
+
+<div style="text-align:center"><img src ="/assets/gifs/2048-fast.gif" /></div>
+
+*The above animation shows the 2048 solver in action.*
+
+---
+
+
+This project was completed during 2016 Semester 2 as part of my Algorithms and Data Structures class. I really enjoyed learning about graph algorithms, and they were even more interesting when being applied to solve a popular game, [2048](https://gabrielecirulli.github.io/2048/).
+
+To see the actual implementation, please visit the link [2048 Solver Project](www.google.com).
+
+The project was written with C programming language and it uses an online variant of [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
+
+For those who are not very familiar with the algorithm being discussed here, the program basically tries every combination of moves which we can perform and returns the best possible move to make.
+
+## Example Input
+```
+./2048 ai avg 2 slow
+```
+
+This command instructs the game to run with the algorithm enabled, with the average propagation mode and a search depth of 2. The `slow` flag means that the program will run at a slower pace, allowing the user to observe the individual action being applied.
+
+<div style="text-align:center"><img src ="/assets/gifs/2048-slow.gif" /></div>
+
+*The above animation shows the 2048 solver with slow animation flag turned on.*
+
+Since the game allows the board to be manipulated in four ways (up, down, left, right), the algorithm will go through the depth of 2 by computing each of the following possibilities:
+
+* Up Up
+* Up Down
+* Up Left
+* Up Right
+* Down Up
+* Down Down
+* Down Left
+* Down Right
+* (and so on...)
+
+Then the program will sum up and take the average of all the scores which started with Up, Down, Left and Right. The best move is the action which reflects the highest average score.
+
+*Once the best move is applied, the whole process starts over again, and this process repeats until the board is completely filled and that would be game over.*

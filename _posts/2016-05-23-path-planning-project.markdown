@@ -1,7 +1,7 @@
 ---
 title: "Path Planning Using C Programming Language"
 layout: post
-date: 2017-06-08 20:00
+date: 2016-05-23 20:00
 tag:
 - C
 - Programming
