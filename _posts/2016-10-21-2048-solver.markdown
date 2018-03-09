@@ -27,6 +27,7 @@ externalLink: false
 
 This project was completed during 2016 Semester 2 as part of my Algorithms and Data Structures class. I really enjoyed learning about graph algorithms, and they were even more interesting when being applied to solve a popular game, [2048](https://gabrielecirulli.github.io/2048/).
 
+To see the actual implementation, please visit the link [2048 Solver Project](https://github.com/stevenlee090/2048-solver).
 
 The project was written with C programming language and it uses an online variant of [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
 
