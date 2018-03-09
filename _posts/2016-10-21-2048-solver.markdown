@@ -58,4 +58,4 @@ Since the game allows the board to be manipulated in four ways (up, down, left, 
 
 Then the program will sum up and take the average of all the scores which started with Up, Down, Left and Right. The best move is the action which reflects the highest average score.
 
-*Once the best move is applied, the whole process starts over again, and this process repeats until the board is completely filled and that would be game over.*
+Once the best move is applied, the whole process starts over again, and this process repeats until the board is completely filled and that would be game over.
