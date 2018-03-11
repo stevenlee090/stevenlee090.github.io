@@ -14,7 +14,7 @@ author: stevenlee
 description: Useful shortcuts for LabVIEW 2017.
 ---
 
-Here is a list of useful shortcuts which was compiled through the LabVIEW Core 1 and Core 2 exercises.
+Here is a list of useful shortcuts which was compiled through the LabVIEW Core 1 and Core 2 exercises. Please note that these shortcuts are for the Windows version of LabVIEW 2017.
 
 `Control T`:  View front panel and block diagram at the same time
 
