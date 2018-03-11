@@ -21,7 +21,7 @@ During my first programming subject, Engineering Computation, in university (tak
 
 I found this project interesting because it actually seems like something which would be useful in real life, since we are constantly using path planning algorithms for GPS navigation and maximising efficiency by finding the shortest possible route.
 
-For the actual implementation of the project, please [click here](https://github.com/stevenlee090/path-planning).
+For the actual implementation of the project, please [click here](https://github.com/stevenlee090/path-planning). The github repository also goes over the example input and example output in the 'read me' section.
 
 After this subject, I would eventually learn more about algorithms and data structures in the following semester (2016 Semester 2). Within the follow-up course, I learnt about the about graphs, and graph traversal algorithms such as [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm) and how they are applied.
 
