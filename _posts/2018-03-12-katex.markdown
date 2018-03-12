@@ -27,7 +27,7 @@ The installation was not exactly straightforward, but following [this guide](htt
 * Matrix equations not working at the moment
 * Equations in display math mode does not centre
 
-Even though the KaTeX setup is only partially working at this stage, I believe the current setup would be sufficient for current and near future requirements. Despite spending hours trying to find the solutions for my problems, the investigation still did not yield any conclusive result.
+Even though the KaTeX setup is only partially working at this stage, I believe the current setup would be sufficient for my current and near future needs. Despite spending hours trying to find the solutions for the issues outlined above, the investigation still did not yield any conclusive result.
 
 For now, I will stick to using equations such as the ones shown below:
 
