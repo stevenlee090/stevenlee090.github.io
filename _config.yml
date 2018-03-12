@@ -103,3 +103,7 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+markdown: kramdown
+kramdown:
+   math_engine: mathjax

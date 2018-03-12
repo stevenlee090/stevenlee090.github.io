@@ -1,0 +1,38 @@
+---
+title: "KaTeX with Jekyll "
+layout: post
+date: 2018-03-12 22:00
+image: # /assets/images/iterm.png
+headerImage: false
+tag:
+- mathjax
+- katex
+- math
+- typeset
+star: false
+category: blog
+author: stevenlee
+description: Testing out KaTeX with Jekyll.
+---
+
+After finishing up other tasks for the day, I started looking into how I could incorportate mathematical equations into the blog. Digging through various online discussions reveal the two popular choices which work well with GitHub pages and Jekyll.
+
+* MathJax
+* KaTeX
+
+While MathJax more full-featured, KaTeX is amazingly fast, as evident in [this speed test](https://www.intmath.com/cg5/katex-mathjax-comparison.php). Therefore, I decided to try and install KaTeX and see how well it works.
+
+The installation was not exactly straightforward, but following [this guide](https://nealde.github.io/blog/2017/10/20/How-to-make-a-local-Jekyll-website/), I was able to setup KaTeX and have it up and running. However, there are still some features which are still not working as intended, including:
+
+* Matrix equations not working at the moment
+* Equations in display math mode does not centre
+
+Even though the KaTeX setup is only partially working at this stage, I believe the current setup would be sufficient for current and near future requirements. Despite spending hours trying to find the solutions for my problems, the investigation still did not yield any conclusive result.
+
+For now, I will stick to using equations such as the ones shown below:
+
+$$ P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}} $$
+
+Another example:
+
+$$ \int u \frac{dv}{dx}\,dx=uv-\int \frac{du}{dx}v\,dx $$
