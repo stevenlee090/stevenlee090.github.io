@@ -36,3 +36,24 @@ $$ P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}} $$
 Another example:
 
 $$ \int u \frac{dv}{dx}\,dx=uv-\int \frac{du}{dx}v\,dx $$
+
+---
+*Testing the features which are still not fully working*
+
+Matrix:
+
+$$
+\begin{pmatrix}
+   a & b \\
+   c & d
+\end{pmatrix}
+$$
+
+Single $ x + y $ line?
+
+$$
+\begin{aligned}
+   a&=b+c \\
+   d+e&=f
+\end{aligned}
+$$
