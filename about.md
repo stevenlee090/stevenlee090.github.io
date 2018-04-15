@@ -16,6 +16,8 @@ For more photography content, I can be found on [Instagram](https://www.instagra
 * Java
 * MATLAB
 * CAD ([Fusion 360](https://www.autodesk.com/products/fusion-360/overview), [Rhino](https://www.rhino3d.com))
+* Microsoft Office
+* [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (for documentation)
 
 ## Projects
 Please visit the [Projects]({{ site.url }}/projects) page for more information.
