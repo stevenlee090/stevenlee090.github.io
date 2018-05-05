@@ -29,7 +29,7 @@ Moreover, all the features work as expected and I was able to produce the desire
 ```
 2. Add the code snippet above to `page.html` which should be under `_layouts` folder. This particular step could vary slightly depending on the existing Jekyll theme and its folders' setup.
 
-3. Try to write some math equation(s) and see if they render properly. For example, the Lorentz equations shown below can be generated with the code shown below:
+3. Try to write some math equation(s) and see if they render properly. For example, the Lorentz equations shown in the next section can be generated with the code shown below:
 ```
 \\[
     \begin{aligned}
@@ -85,7 +85,7 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 \quad\quad \text{for $|q|<1$}. \\]
 
 
-#### Maxwell&#8217;s Equations
+#### Maxwell's Equations
 
 \\[  \begin{aligned}
 \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\\   \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\\
