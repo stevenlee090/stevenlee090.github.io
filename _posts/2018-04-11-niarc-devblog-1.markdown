@@ -73,7 +73,7 @@ Overall, I quite enjoyed the process of putting together all the individual part
 
 ---
 
-## Next Step
+## What is next?
 
 1. Complete pin assignment table
 2. Basic programming of the robot car in LabView
