@@ -25,7 +25,7 @@ description: Second NIARC development blog post detailing milestone 3.
 
 ## Project Update
 
-There has been a significant amount of progress since the previous blog post. From the gif animation above, the robot car can be seen performing the required obstacle avoidance objective for milestone 3.
+There has been a significant amount of progress since the previous blog post. From the gif animation above, the robot car can be seen performing the required obstacle avoidance objective for milestone 3. (Might take a little while to load...)
 
 Under the subsections below, I will be going over some of the highlights which have taken place throughout milestone 1 to milestone 3.
 
