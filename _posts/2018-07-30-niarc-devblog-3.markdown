@@ -33,7 +33,7 @@ The whole project was re-evaluated since the official tasks and rules specified 
 
 Under the subsections below, various aspects of the development process will be discussed, including highlights and problems/issues faced along the way.
 
-I would also like to thank my fellow team members, **Ammar, Grant, Howard, Jeremy, Heraldo, Andrew, David** for their ongoing efforts and support.
+I would also like to thank my fellow team members, **Ammar, Grant, Howard, Jeremy, Heraldo, Andrew, David**, and mentors **Neo, Tony** for their ongoing efforts and support.
 
 ## Milestone 4
 * **Requirement:** Demonstration of navigation/localisation and obstacle avoidance.
