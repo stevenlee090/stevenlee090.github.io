@@ -189,6 +189,8 @@ The Advanced VFH will avoid detected obstacles by searching for gaps/openings wh
 
 In the **heading** input, we provide the current robot heading and target heading. **Distances** and **direction angles** are directly provided by the LiDAR. **Obstacle clearance distance** basically defines the footprint of the robot body as a radius. **Thresholds** define the distances at which the robot considers itself blocked.
 
+The GIF animation at the beginning of the blog post shows the Advanced VFH algorithm in action, and the left part specifically illustrates the RAW LiDAR data and the aforementioned settings and thresholds.
+
 ## 4.7 Finite State Machine
 Once the Advanced VFH was implemented and tested, we moved on to defining waypoints using the good old finite state machine. This allowed us to easily manage the tasks and requirements specified for milestone 4.
 
