@@ -1,7 +1,7 @@
 ---
 title: "NIARC Post-final Reflection"
 layout: post
-date: 2018-07-30 08:00
+date: 2018-09-20 20:00
 image: # /assets/images/iterm.png
 headerImage: false
 tag:
@@ -143,6 +143,18 @@ Shortly before the results came out, we prepared ourselves for the worst as Spee
 ---
 
 ### Semi Finals
+After finishing the quarter final round, we proceeded to compete against RMIT Dynamics for the semi final. Our robot made some mistakes during the runs. In particular, the robot fell off the ramp as it was going up the slope, but it somehow corrected its path and recovered back onto the track and finished that run.
+
+---
+
+<iframe width="792" height="446" src="https://www.youtube.com/embed/QsvY94D5BZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption class="caption">Semi final round - University of Melbourne vs RMIT University (RMIT Dynamics)</figcaption>
+
+---
+
+Despite the mistakes during the semi-final round, we were still able to score slightly above RMIT dynamics and eventually made our way into the final round.
+
+### Finals
 
 At this point, we were completely speechless, as we were guaranteed a second place already and just need to place the final round against Victoria University of Wellington. However, this is also where things turned to the worst, thanks for [Murphy’s law](https://en.wikipedia.org/wiki/Murphy%27s_law). One of our team member accidentally tripped over the track divider, dropping our robot onto the ground. For some miraculous reasons, the robot survived the drop and we were still able to compete in the final rounds of the day.
 
@@ -154,6 +166,13 @@ At this point, we were completely speechless, as we were guaranteed a second pla
 ---
 
 For the outer track run, the robot almost made its way to the finish line without issues, but then decided it would drift away from the track at the final corner before the finish zone. For the inner track run, even though the robot was much faster than the competing robot, it knocked over an obstacle after the first zig-zag, and it also missed a zig-zag over the second yellow/black-taped zone.
+
+---
+
+<iframe width="792" height="446" src="https://www.youtube.com/embed/-01SdS8-T1c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption class="caption">Semi final round - University of Melbourne vs Victoria University of Wellington (VuW)</figcaption>
+
+---
 
 This resulted in point deductions for both runs, placing our scores slightly lower than the opponent, hence losing the championship round to VuW (Victoria University of Wellington). It is important to acknowledge that even though VuW’s robot is much slower than our robot, it was amazingly consistent, and was able to perform all the required tasks over every single terrain elements, while avoiding all the obstacles placed along the track.
 
