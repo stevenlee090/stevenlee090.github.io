@@ -55,7 +55,7 @@ email: stevenlee090@hotmail.com
 authors:
     stevenlee:
         name: Steven Lee
-        bio: Code, robotics, photography and cinematography.
+        bio: Code, robotics, photography, cinematography.
         external-image: false
         picture: assets/images/myprofile.jpg
         twitter: stevenlee090
@@ -89,7 +89,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true

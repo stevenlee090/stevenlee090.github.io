@@ -1,0 +1,140 @@
+---
+title: "Travelling in Yosemite"
+layout: post
+date: 2019-05-22 09:39
+image: # /assets/images/iterm.png
+headerImage: false
+tag:
+- photography
+- travel
+- reflection
+star: false
+category: blog
+author: stevenlee
+description: Blog post documenting my experience travelling through Yosemite National Park.
+---
+
+<!-- Some writing prompts:
+
+* things I saw in CA
+* how do I like them
+* light painting
+* iconic fog shots
+* recommend the main routes I went through
+* suggest others to visit when Tioga road is open -->
+
+This post is written mainly to discuss my five days experience at Yosemite National Park. In particular, I will discuss the main hiking routes which I went through and other places which were visited. Unfortunately, due to the snow weather condition, I was unable to drive through Tioga Road section, which I was pretty excited about while planning this trip. Hopefully this blog post is interesting to read, and if you have any question, please feel free to reach out to me, I am more than happy to answer any of your questions to the best of my abilities.
+
+Upon quick reflection, this is actually the first photography focused blog post which I have written for my personal blog. Before this, I have mainly been posting some of my works on [500px](https://500px.com/stevenlee090) and [instagram](https://www.instagram.com/stevenlee090/?hl=en), but the way they are presented just lack that story telling element and extended narration throughout the journey, hence I have decided to come back here where writings and photos can be presented in a balanced and coherent manner. In the subsections below, the places visited are listed roughly in their chronological order.
+
+## Bridalveil Fall
+On the first day, we visited [Bridalveil Fall Viewing Point](https://www.nps.gov/yose/planyourvisit/bridalveilfalltrail.htm) right after we entered Yosemite Valley. As it was during the first two weeks of May, there was a lot of water coming down from the waterfall, hence the viewing platform was really misty and pouring down with water. It was a relatively short walk from the road-side parking to reach the viewing platform. As you walk closer to the waterfall, there was a gentle breeze of cold air complemented by the small water particles in the air. However, since it was so wet, this experience might be better captured by a GoPro action camera instead of a DSLR.
+
+![Bridalveil Fall](/assets/images/yosemite_web/bridalveil-2.jpg)
+<!-- <figcaption class="caption"> Bridalveil Fall </figcaption> -->
+
+
+## Upper Yosemite Falls & Yosemite Point
+On the second day, we attempted one of the more strenuous hikes available. We followed the [Yosemite Falls Trail](https://www.nps.gov/yose/planyourvisit/yosemitefallstrail.htm) and then extended the hike east to Yosemite Point. This was definitely one of the most challenging but rewarding part of the journey, the panoramic views it offered was just unparalleled, and nothing is more satisfying when you climb up to a vantage point and see the amazing views it provides.
+
+![Upper Yosemite Falls and Yosemite Point](https://www.nps.gov/yose/planyourvisit/images/upperfallsmap_rev1.jpg)
+<!-- <figcaption class="caption"> Map to Yosemite Point </figcaption> -->
+
+On the way up, we came across multiple outlooks and viewing platforms which offered great panoramic views over the Yosemite Valley. This was great for taking a break and taking out some of our snacks to enjoy before moving on. Walking further into the trail, we were eventually greeted by an amazing view of the Upper Yosemite Falls from the left side.
+
+![Upper Yosemite Falls](/assets/images/yosemite_web/upper-yosemite-falls.jpg)
+<!-- <figcaption class="caption"> Upper Yosemite Falls </figcaption> -->
+
+After a long and strenuous hike, going past the top of Upper Yosemite Falls and reaching Yosemite Point provides one of the best elevated view over the whole valley.
+
+![Yosemite Point](/assets/images/yosemite_web/yosemite-point.jpg)
+<!-- <figcaption class="caption"> View from Yosemite Point </figcaption> -->
+
+![Mountain](/assets/images/yosemite_web/mountains.jpg)
+<!-- <figcaption class="caption"> Telephoto View from Yosemite Point </figcaption> -->
+
+## Tunnel View
+On the night of the second day, before heading to Glacier Point, we stopped by at the iconic [Tunnel View](https://en.wikipedia.org/wiki/Tunnel_View) for some long exposure photos. There is definitely a lot of different ways to compose a photo here, but I personally prefer the wide angle shots as it retains the forests in the foreground, the night sky and Bridalveil Falls all in the same frame.
+
+![Tunnel View Night](/assets/images/yosemite_web/tunnel-view-night.jpg)
+
+## Glacier Point
+Originally we were planning to take the [Four Mile Trail](https://www.nps.gov/yose/planyourvisit/fourmiletrail.htm) to go up to the Glacier Point, but due to bad weather, we were unable to hike up there as originally planned. Instead, we drove up there at night after coming down from Upper Yosemite Falls. We were actually rather fortunate to be able to drive into Glacier Point on that day, as it was actually closed a few days later due to increasing snow and rain which exacerbated the weather condition. With the clear sky condition, we were able to capture the glaciers from afar along with the night sky above it.
+
+![Glacier Point View](/assets/images/yosemite_web/glacier-point.jpg)
+
+After that, we experimented with some light painting in Korean.
+
+![Korean Light Painting](/assets/images/yosemite_web/light-painting.jpg)
+
+The light painting actually turned out much better than I initially expected since I have only done light painting in English before. After that, I attempted to write some Traditional Chinese but failed miserably. However, I believe with sufficient practice, I could eventually obtain a reasonable outcome. The main difficulty for Chinese is that there is a lot more independent strokes, and I would need to time every movement impeccably in order to finish the words fully.
+
+When we got back to our cabin at Half Dome Village, it was around 3 AM, but I was determined to see if it was possible to do some astrophotography. After trying a few different compositions, the one with surrounding trees lit up by the nearby cabin lights stood out the most. Despite the lens flare, I am still quite surprised by how well this turned out.
+
+![Half Dome Village Astro](/assets/images/yosemite_web/half-dome-village.jpg)
+
+## Vernal Falls
+On the third day, we visited the [Vernal Fall and Nevada Fall Trails](https://www.nps.gov/yose/planyourvisit/vernalnevadatrail.htm) and walked up to the top of Vernal Falls.
+
+![Vernal Falls](/assets/images/yosemite_web/vernal-falls.jpg)
+
+The later part of the trail was extremely wet and slippery, especially when walking across the side of the Vernal Falls, and all our shoes were soaking wet by the time we got up to the top of Vernal Falls. If I were to ever go there again under the same condition, I would definitely bring along some sandals or slippers suitable for hiking.
+
+![Ascent](/assets/images/yosemite_web/steep-slippery.jpg)
+
+Once you are up there, you are greeted with a breathtaking view of the trails you just came across and the winding creeks formed by the water going down from the waterfall.
+
+![Vernal Falls View](/assets/images/yosemite_web/vernal-falls-view.jpg)
+
+## Mariposa Grove
+On the fourth day, we visited the [Mariposa Grove of Giant Sequoias](https://www.nps.gov/yose/planyourvisit/mg.htm) and walked along the Mariposa Grove Trail towards Wawona Point which is at the end of the trail. On that day, we parked the car at the large car park at the bottom and took a shuttle bus to the trail head. As we started walking into the trail, the rain and humid condition provided us with a rather unusual perspective.
+
+![Mariposa Walk](/assets/images/yosemite_web/mariposa-walk.jpg)
+
+Although the cloudy sky never really went away, the rain stopped when we were a quarter into the trail. Eventually, we were greeted by the [Grizzly Giant](https://en.wikipedia.org/wiki/Grizzly_Giant) which was definitely larger and taller than I could have ever imagined.
+
+![Grizzly Giant Tree](/assets/images/yosemite_web/mariposa-tree.jpg)
+
+The majority of the trail towards Wawona Point consists of flat and steeper slopes. Interestingly, it would be easier to walk on stone staircase than a slope since on the stairs, our ankles would be doing less work.
+
+![Mariposa Trail](/assets/images/yosemite_web/mariposa-trail.jpg)
+
+After two to three hours of walking, we eventually reached our final destination, Wawona Point. Despite the cloudy weather, we were still able to see pretty far into the nearby mountain ranges. It was also a really relaxing place to stop and have some sandwiches or snacks (which I forgot to prepare).
+
+![Wawona Point View](/assets/images/yosemite_web/wawona-point.jpg)
+
+## Misty Yosemite Valley
+On the morning of the fourth and fifth day, we were caught by surprise as the early morning haze and clouds gradually cleared and allowed the sun and blue sky to glimpse through from above.
+
+![Fog and Mountain](/assets/images/yosemite_web/misty-1.jpg)
+
+The photos below were all captured around Yosemite Valley as we slowly drove around the available roads and stopped by as many places as we possibly can.
+
+![Reflected Waterfall](/assets/images/yosemite_web/misty-2.jpg)
+
+The above photo provided a great view of the Upper and Lower Yosemite Falls, and also their corresponding reflection within the small puddle created by the earlier rain. The photo below attempts to accentuate the outer features of El Capitan as the clouds slowly disperse.
+
+![El Capitan](/assets/images/yosemite_web/misty-3.jpg)
+
+## Mirror Lake
+On the fifth day, we walked through the full loop of [Mirror Lake Trail](https://www.nps.gov/yose/planyourvisit/mirrorlaketrail.htm), and due to the continuous rain and snow, we had to take some unexpected detour over certain parts of the trail, which made the it much more difficult than we initially expected. This is compounded by the fact that I was wearing a really large raincoat which was often caught by small branches, and lugging my tripod along at the same time. In the end, I did not even used the tripod much, except from taking two long exposure shots and using it as trekking pole.
+
+That day, the skies were still rather cloudy, but this also made the surrounding environment really moody and allowed me to capture some of my favourite shots of the whole trip (shown below).
+
+![Mirror Lake](/assets/images/yosemite_web/mirror-1.jpg)
+
+As we walked further in, we were able to see the mountains from the opposite side of the lake, surrounded by haze above and forests from the bottom.
+
+![Mirror Lake Mountain View](/assets/images/yosemite_web/mirror-2.jpg)
+
+Further into the trail, the surrounding trees become more and more dense, meaning that it was harder for the surrounding mountains to be seen as a whole. However, as a photo, it was also more atmospheric and immersive viewing experience.
+
+![Mirror Lake Dense](/assets/images/yosemite_web/mirror-3.jpg)
+
+### Special Thanks
+
+I would like to thank [@angelica.blue](https://www.instagram.com/angelica.blue/) for her questions which prompted me to put together this blog post.
+
+I would also like to thank my friends Roy and Sunwoo (who wrote his Korean name in the light painting above) for their time and patience as they waited for the long exposure shots to finish.
+
+Furthermore, shout out to my high school friends [Winston](https://www.instagram.com/thatphotosage/) and [William](https://www.instagram.com/willyap8/) for their teachings, advices and companionship along my photography journey.
