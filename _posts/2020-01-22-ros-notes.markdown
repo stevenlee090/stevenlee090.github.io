@@ -1,0 +1,74 @@
+---
+title: "Learning ROS"
+layout: post
+date: 2020-01-22 21:00
+image: # /assets/images/iterm.png
+headerImage: false
+tag:
+- ros
+- robotics
+- software
+star: false
+category: blog
+author: stevenlee
+description: Notes taken while learning about ROS.
+---
+
+ROS (Robot Operating System) is a popular robotics middleware for all kinds of robotics project. For my final year project with [MUR](https://murmotorsports.eng.unimelb.edu.au/home), I will be working mainly working on the perception subsystem of the driverless race car. As a team, we have decided to use ROS for developing and managing our software packages. It also works well with [Gazebo](http://gazebosim.org/) which is great for simulating our driverless vehicle when we are unable to test on the actual vehicle.
+
+## ROS Installation with Docker
+
+For getting ROS up and running in macOS, I referred to this [useful tutorial](https://desertbot.io/blog/ros-turtlesim-beginners-guide-mac). It was relatively straightforward and I was able to get everything downloaded and running within an hour.
+
+<div style="text-align:center"><img src ="/assets/gifs/ros_turtle.gif" /></div>
+<figcaption class="caption">Turtlesim running within macOS Docker</figcaption>
+
+Additional post for getting Gazebo running can be viewed [here](https://github.com/osrf/docker_images/issues/55#issuecomment-572762297). Please note that the instructions provided there are to be executed line by line.
+
+I did encounter a small problem when trying to run the last command with `x11vnc`, but was able to resolve it by not passing `-display` flag.
+
+```
+$ docker pull gazebo:latest
+$ docker run -p 5900:5900 -d -v="/tmp/.gazebo/:/root/.gazebo/" --name=gazebo $ gazebo
+
+$ docker exec -it gazebo bash  # get into the Docker
+
+$ apt-get update
+$ apt-get install x11vnc -y
+$ apt update
+$ apt install xvfb ufw -y
+$ Xvfb :1 -screen 0 1600x1200x16 &
+$ export DISPLAY=:1.0
+$ gzclient &
+$ x11vnc
+```
+
+## Notes from Tutorial
+
+The ROS wiki provides a clear and easy to follow [tutorial](http://wiki.ros.org/ROS/Tutorials). Below are some of the notes which taken while I was going over the tutorial.
+
+We can use `rospack` to get information about packages. For example, we can use it to find the path to a particular package.
+```
+$ rospack find roscpp
+
+/opt/ros/melodic/share/roscpp
+```
+
+We can use `roscd` to change directory directly to a package. Note that `roscd` and other ROS tools will only find ROS package that are within the directories listed in the `ROS_PACKAGE_PATH`.
+```
+$ roscd roscpp
+$ pwd
+/opt/ros/melodic/share/roscpp
+```
+
+We can use `rosls` to directly list what is inside the package directory.
+```
+$ rosls roscpp_tutorials
+cmake  launch  package.xml  srv
+```
+
+It is great that ROS supports **tab completion**, so most of the time you can press tab to complete an un-ambiguous command. Or you can press `TAB` twice to list the possible options.
+
+More CLI utilities are described in the [rosbash](http://wiki.ros.org/rosbash) page.
+
+This is still a work in progress and I am to add more stuff here as I learn more about ROS.
