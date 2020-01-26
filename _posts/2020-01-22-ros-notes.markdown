@@ -14,7 +14,7 @@ author: stevenlee
 description: Notes taken while learning about ROS.
 ---
 
-ROS (Robot Operating System) is a popular robotics middleware for all kinds of robotics project. For my final year project with [MUR](https://murmotorsports.eng.unimelb.edu.au/home), I will be working mainly working on the perception subsystem of the driverless race car. As a team, we have decided to use ROS for developing and managing our software packages. It also works well with [Gazebo](http://gazebosim.org/) which is great for simulating our driverless vehicle when we are unable to test on the actual vehicle.
+ROS (Robot Operating System) is a popular robotics middleware for all kinds of robotics project. For my final year project with [MUR](https://murmotorsports.eng.unimelb.edu.au/home), I will be working on the perception subsystem of the driverless race car. As a team, we have decided to use ROS for developing and managing our software packages. It also works well with [Gazebo](http://gazebosim.org/) which is great for simulating our driverless vehicle when we are unable to test on the actual vehicle.
 
 ## ROS Installation with Docker
 
@@ -41,6 +41,14 @@ $ Xvfb :1 -screen 0 1600x1200x16 &
 $ export DISPLAY=:1.0
 $ gzclient &
 $ x11vnc
+```
+
+## Docker Usage
+
+Here is a small collection of commands which are useful when working with Docker.
+
+```
+$ docker ps --all # list all containers
 ```
 
 ## Notes from Tutorial
@@ -71,4 +79,21 @@ It is great that ROS supports **tab completion**, so most of the time you can pr
 
 More CLI utilities are described in the [rosbash](http://wiki.ros.org/rosbash) page.
 
-This is still a work in progress and I am to add more stuff here as I learn more about ROS.
+<!-- This is still a work in progress and I am to add more stuff here as I learn more about ROS. -->
+
+For convenience, we can add to our `bashrc` to source the ROS commands and environment upon start up. This would differ depending on which ROS distribution you are using. Since I am using the Melodic distro, therefore the command points to the Melodic installation directory.
+
+```
+# add command to source ROS environments
+source /opt/ros/melodic/setup.bash
+```
+
+
+## Gragh Concepts in ROS
+
+* Nodes: executable that uses ROS to communicate with other nodes
+* Messages: ROS data type used for subscribing or publishing ot a topic
+* Topics: Nodes that can publish messages to a topic as well as subscribe to a topic
+* Master: Name service for ROS (helps nodes to find each other)
+* rosout: ROS equivalent of stdout/stderr
+* roscore: Master + rosout + parameter server
