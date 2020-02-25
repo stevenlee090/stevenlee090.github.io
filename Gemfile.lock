@@ -151,6 +151,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
+    jekyll-spaceship (0.2.2)
+      nokogiri (~> 1.6)
     jekyll-swiss (0.4.0)
     jekyll-theme-architect (0.1.0)
       jekyll (~> 3.5)
@@ -272,7 +274,8 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll-admin
+  jekyll-spaceship
   kramdown
 
 BUNDLED WITH
-   1.16.1
+   2.1.2
