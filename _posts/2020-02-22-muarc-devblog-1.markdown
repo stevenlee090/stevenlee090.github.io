@@ -1,5 +1,5 @@
 ---
-title: "MUARC Dev Blog 1"
+title: "MUR-D Dev Blog 1"
 layout: post
 date: 2020-02-22 18:11
 tag:
@@ -25,7 +25,7 @@ externalLink: false
 
 For my final year project, I will be working on the [Melbourne University Racing (MUR)](https://murmotorsports.eng.unimelb.edu.au/home) Autonomous Race Car project as an Autonomous Perception Engineer. My responsibilities include completing the problem formation, concept selection, design, assembly and testing of perception system. My tasks may include camera and/or LiDAR selection and calibration, hardware integration, data collection, and learning, as well as the design and implementation of perception, visual odometry, and/or localisation and mapping algorithms.
 
-While MUARC (Melbourne University Autonomous Race Car) is not the official designation of the project (yet), I thought that it would be a cleaner way to refer to in blog posts.
+While MUR-D (Melbourne University Autonomous Driverless) is not the official designation of the project (yet), I thought that it would be a cleaner way to refer to in blog posts.
 
 For this project, I am planning to write up a series of blog posts which will allow me to document, reflect and plan on what should be done next. This will be similar to what I have done in the past for the [National Instruments Autonomous Robotics Competition (NIARC)]({% post_url 2018-09-20-niarc-reflection %}).
 
