@@ -20,7 +20,7 @@ description: Notes taken while setting up yabai and skhd
 
 ---
 
-Few years ago, I posted about how I managed to [tiling window manager `chunkwm`]({% post_url 2018-02-18-window-managers %}), which is now deprecated and no longer maintained by [koekeishiya](https://github.com/koekeishiya). However, now we have a newer and greater window manager `yabai`, which I will be using from now onwards. Note that this is a macOS specific tiling window manager and I am installing this on macOS version 10.15.4.
+Few years ago, I posted about [tiling window manager `chunkwm`]({% post_url 2018-02-18-window-managers %}), which is now deprecated and no longer maintained by [koekeishiya](https://github.com/koekeishiya). However, now we have a newer and greater window manager `yabai`, which I will be using from now onwards. Note that this is a macOS specific tiling window manager and I am installing this on macOS version 10.15.4.
 
 ## 1. Installing yabai
 The [official wiki page](https://github.com/koekeishiya/yabai/wiki#yabai) is a is a great place to start, as it provides you with a great overview of what you are getting into. Plus, the GitHub Wiki sidebar has just about everything you would need to get this up and running.
@@ -41,8 +41,8 @@ While the example config files provide a brief overview of what can be achieved.
 ## 4. Customisation
 Your friends are here:
 
-* https://github.com/koekeishiya/yabai/blob/master/doc/yabai.asciidoc
-* https://github.com/koekeishiya/yabai/wiki/Commands#display-commands
+* [yabai documentation](https://github.com/koekeishiya/yabai/blob/master/doc/yabai.asciidoc)
+* [Wiki page going over available commands](https://github.com/koekeishiya/yabai/wiki/Commands#display-commands)
 
 They are very well documented and easy to read. The approach I take is trial and error. Keep tweaking it until it fits your liking. Previously, I got quite used to the default bindings provided by `chunkwm` and `skhd`, so I ended up porting most of them over to `yabai`.
 
