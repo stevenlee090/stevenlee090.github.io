@@ -1,0 +1,122 @@
+---
+title: "Travelling to Grafton"
+layout: post
+date: 2021-01-12 21:51
+image:
+headerImage: false
+tag:
+- australia
+- photography
+- travel
+- reflection
+star: false
+category: blog
+author: stevenlee
+description: Blog post documenting my experience travelling from Melbouren to Grafton NSW.
+---
+
+
+## Mount Kosciuszko
+
+![Aerial 1](/assets/images/grafton/jindabyne-1.jpeg)
+<figcaption class="caption">Jindabyne ski lodge in the rain</figcaption>
+
+---
+
+We made the drive from Melbourne to Jindabyne in one day, which was a pretty much a full day of driving. Jindabyne is a small town with many accomodations for skiers and hikers. While the accomodation (Kookaburra Ski Lodge) was pretty small, it was also extremely cozy and comfy. With the rain outside, it was basically a complete ASMR experience in real life. It was also a nice surpirsed that they served hot breakfast as opposed to instant cereal packs.
+
+The next day we made our way to [Thredbo Village](https://www.thredbo.com.au/the-village/village-map/) which provides the Kosciuszko express chairlift. While it was pricey, it was a relaxing ride which took us up by 560 metres in 15 minutes. From there, it was a 13 km return walk to the peak of Mount Kosciuszko.
+
+While it is true that Mount Kosciuszko is the tallest mountain in Australia mainland, it is actually not the highest point on Australian territory. That highest point belongs to Mt McClintock in the [Australian Antarctic Territory](https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/remote-offshore-territories/australian-antarctic-territory).
+
+
+![Kosciuszko](/assets/images/grafton/kosciuszko-1.jpeg)
+
+
+## Wollongong & Grand Pacific Drive
+
+After descending from Mount Kosciuszko, we made our way to Wollongong, where we visited Minnamurra Beach.
+While the weather was not exactly great, it was still a memorable experience. Everything just feels so fresh after spending a year or so in lockdown and an endless routine of working from home.
+
+![minnamurra](/assets/images/grafton/minnamurra-1.jpeg)
+
+Next we made our way up towards Grafton through the [Grand Pacific Drive](https://www.grandpacificdrive.com.au/). We started the drive from Bald Hill lookout, making our way through the Royal National Park. It was an amazing drive, comparable to other drives in Victoria such as the Black Spur Drive and driving through Dandenong Ranges National Park.
+
+![grand-pacific](/assets/images/grafton/grand-pacific-1.jpeg)
+
+
+## Grafton
+
+Grafton is a small town in New South Wales with about 20,000 in population, situated near the border with Queensland. To the east, you can find numerous beaches and to the west, you can find numerous national parks offering walking tracks into rainforests.
+
+Shout out to the [Big River Pizza](https://www.bigriverpizza.com.au/) for providing one of the best seafood pasta I have had for only $9 AUD. Remember this is the year 2022! In fact it was so good that I could not get myself to stop eating to take a photo...
+
+[Grafton Bridge](https://en.wikipedia.org/wiki/Grafton_Bridge_(New_South_Wales)), constructed in the 1920s.
+
+![grafton-1](/assets/images/grafton/grafton-bridge-1.jpeg)
+
+![grafton-2](/assets/images/grafton/grafton-bridge-2.jpeg)
+
+### Urunga & Wooli
+
+Urunga beach and Wooli beach are both located south of Grafton. Urunga boardwalk is a great place to walk and enjoy fresh sea breeze, which I think would be even better in winter when it is colder.
+
+![boardwalk](/assets/images/grafton/boardwalk-1.jpeg)
+
+Wooli on the other hand is great for fishing or just sitting down to reflect with the coastal wind, and contemplate about the [meaning of life](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
+![wooli](/assets/images/grafton/wooli-1.jpeg)
+
+### Gibraltar National Park & Washpool National Park
+
+![gib-1](/assets/images/grafton/gibraltar-1.jpeg)
+<figcaption class="caption">Entrance to Gibraltar National Park</figcaption>
+
+---
+
+![gib-2](/assets/images/grafton/gibraltar-2.jpeg)
+<figcaption class="caption">Roadside lookout</figcaption>
+
+---
+
+After entering Gibraltar National Park, we parked near [Coachwood picnic area](https://www.nationalparks.nsw.gov.au/things-to-do/picnic-areas/coachwood-picnic-area) and walked around in a circuit. The rainforest vegetations in this region seem more dynamic and vibrant compared to the ones in Victoria. The endless creeks also provided ample opportunities for long exposures.
+
+
+![washpool-1](/assets/images/grafton/washpool-1.jpeg)
+
+![washpool-2](/assets/images/grafton/washpool-2.jpeg)
+
+![washpool-3](/assets/images/grafton/washpool-3.jpeg)
+
+
+## Epilogue
+
+Thanks to Derek for encouraging and inspiring me to write this blog post. It felt surreal to be writing another blog post after so many months of inactivity. Time really does go by when you have work routine throughout COVID. Hopefully 2022 is the year where we can definitively declare that we have defeated the virus and have everything return back to normal.
+
+Finally, special thanks to Harvey for making this trip possible and always teaching me new things, including making bubble tea!
+
+---
+
+![Tea](/assets/images/grafton/tea-1.jpeg)
+<figcaption class="caption">DIY Bubble Tea</figcaption>
+
+---
+
+![Aerial 1](/assets/images/grafton/flight-1.jpeg)
+<figcaption class="caption">On the way back to Melbourne</figcaption>
+
+---
+
+![Aerial 2](/assets/images/grafton/flight-2.jpeg)
+<figcaption class="caption">Overlooking Mount Dandenong</figcaption>
+
+---
+
+
+
+
+
+
+
+
+

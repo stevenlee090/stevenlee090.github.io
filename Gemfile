@@ -6,3 +6,5 @@ group :jekyll_plugins do
     gem 'jekyll-admin'
     gem 'kramdown'
 end
+
+gem "webrick", "~> 1.7"
