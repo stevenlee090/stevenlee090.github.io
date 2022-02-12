@@ -2,7 +2,8 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+
+![Profile Image](/assets/images/myprofile2.jpg)
 
 My name is Steven, I am a mechatronics engineering student studying at the University of Melbourne. I completed my Bachelor of Science degree at the end of 2017, and will begin my Masters of Engineering course at the start of 2018.
 
