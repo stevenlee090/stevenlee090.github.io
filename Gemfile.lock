@@ -255,7 +255,9 @@ GEM
     net-protocol (0.1.2)
       io-wait
       timeout
-    nokogiri (1.13.0-x86_64-darwin)
+    nokogiri (1.13.3-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.3-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -323,6 +325,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
