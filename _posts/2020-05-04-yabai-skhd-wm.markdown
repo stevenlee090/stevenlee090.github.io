@@ -11,7 +11,7 @@ tag:
 - skhd
 star: false
 category: blog
-author: stevenlee
+author:
 description: Notes taken while setting up yabai and skhd
 ---
 

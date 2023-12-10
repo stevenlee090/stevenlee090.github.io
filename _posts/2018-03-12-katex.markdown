@@ -11,7 +11,7 @@ tag:
 - typeset
 star: false
 category: blog
-author: stevenlee
+author:
 description: Testing out KaTeX with Jekyll.
 ---
 

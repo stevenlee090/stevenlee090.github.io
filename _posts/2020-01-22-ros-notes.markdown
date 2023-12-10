@@ -10,7 +10,7 @@ tag:
 - software
 star: false
 category: blog
-author: stevenlee
+author:
 description: Notes taken while learning about ROS.
 ---
 

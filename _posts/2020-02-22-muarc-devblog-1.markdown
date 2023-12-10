@@ -16,7 +16,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Autonomous Race Car Development Blog"
 category: project
-author: stevenlee
+author:
 externalLink: false
 ---
 

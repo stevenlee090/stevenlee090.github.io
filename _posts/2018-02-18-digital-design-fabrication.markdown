@@ -11,7 +11,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Architecture elective project."
 category: project
-author: stevenlee
+author:
 externalLink: false
 ---
 

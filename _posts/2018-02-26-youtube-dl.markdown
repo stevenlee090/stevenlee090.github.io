@@ -10,7 +10,7 @@ tag:
 - utility
 star: false
 category: blog
-author: stevenlee
+author:
 description: The best plugin for downloading youtube content.
 ---
 

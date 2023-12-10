@@ -12,7 +12,7 @@ tag:
 - development
 star: false
 category: blog
-author: stevenlee
+author:
 description: The first NIARC development blog post.
 ---
 

@@ -10,7 +10,7 @@ tag:
 - reflection
 star: false
 category: blog
-author: stevenlee
+author:
 description: Blog post documenting my experience travelling through Yosemite National Park.
 ---
 

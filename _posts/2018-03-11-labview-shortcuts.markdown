@@ -10,7 +10,7 @@ tag:
 - programming
 star: false
 category: blog
-author: stevenlee
+author:
 description: Useful shortcuts for LabVIEW 2017.
 ---
 

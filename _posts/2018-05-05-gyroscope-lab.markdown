@@ -13,7 +13,7 @@ tag:
 - simulation
 star: false
 category: blog
-author: stevenlee
+author:
 description: Modelling gyroscope using MATLAB.
 ---
 

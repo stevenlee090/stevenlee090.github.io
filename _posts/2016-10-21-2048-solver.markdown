@@ -14,7 +14,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "2048 solver project using C programming language."
 category: project
-author: stevenlee
+author:
 externalLink: false
 ---
 

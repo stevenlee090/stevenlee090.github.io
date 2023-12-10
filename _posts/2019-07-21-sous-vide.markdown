@@ -10,7 +10,7 @@ tag:
 - review
 star: false
 category: blog
-author: stevenlee
+author:
 description: Thoughts about cooking with sous-vide.
 ---
 

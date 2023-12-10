@@ -14,7 +14,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "RPG game project using Java programming language."
 category: project
-author: stevenlee
+author:
 externalLink: false
 ---
 

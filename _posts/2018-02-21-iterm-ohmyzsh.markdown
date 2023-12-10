@@ -10,7 +10,7 @@ tag:
 - terminal
 star: false
 category: blog
-author: stevenlee
+author:
 description: iTerm2 terminal setup in macOS
 ---
 

@@ -11,7 +11,7 @@ tag:
 - typeset
 star: false
 category: blog
-author: stevenlee
+author:
 description: Moving from KaTeX to MathJax for mathematics typeset.
 ---
 

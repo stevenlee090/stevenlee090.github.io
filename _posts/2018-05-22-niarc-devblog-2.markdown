@@ -14,7 +14,7 @@ tag:
 - sensors
 star: false
 category: blog
-author: stevenlee
+author:
 description: Second NIARC development blog post detailing milestone 3.
 ---
 

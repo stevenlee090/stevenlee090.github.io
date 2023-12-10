@@ -13,7 +13,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Path planning project using C programming language."
 category: project
-author: stevenlee
+author:
 externalLink: false
 ---
 

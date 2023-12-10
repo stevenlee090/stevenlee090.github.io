@@ -18,7 +18,7 @@ tag:
 - filter
 star: false
 category: blog
-author: stevenlee
+author:
 description: Third NIARC development blog post detailing milestone 4.
 ---
 

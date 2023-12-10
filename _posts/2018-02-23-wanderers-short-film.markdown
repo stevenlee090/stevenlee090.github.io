@@ -12,7 +12,7 @@ tag:
 - commercial
 star: false
 category: blog
-author: stevenlee
+author:
 description: Wanderers Short Film & Used Car Commercial
 ---
 

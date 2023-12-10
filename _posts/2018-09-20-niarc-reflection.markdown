@@ -15,7 +15,7 @@ tag:
 - sensors
 star: false
 category: blog
-author: stevenlee
+author:
 description: NIARC post-final blog post, detailing the event and experience.
 ---
 

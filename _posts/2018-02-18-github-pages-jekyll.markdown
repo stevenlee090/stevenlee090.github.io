@@ -9,7 +9,7 @@ tag:
 - markdown
 star: false
 category: blog
-author: stevenlee
+author:
 description: Setup of GitHub Pages and Jekyll
 ---
 

@@ -10,7 +10,7 @@ tag:
 - spectacle
 star: false
 category: blog
-author: stevenlee
+author:
 description: Setup of window managers in macOS
 ---
 
