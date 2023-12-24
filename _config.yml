@@ -6,8 +6,6 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  “My life amounts to no more than one drop in a limitless ocean. Yet what is any ocean, but a multitude of drops?”
-   ― David Mitchell, Cloud Atlas
 
 # Build settings
 
