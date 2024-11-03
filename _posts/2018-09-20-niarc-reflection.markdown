@@ -19,7 +19,7 @@ author:
 description: NIARC post-final blog post, detailing the event and experience.
 ---
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/JphykMqKYzc?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/sL7Ad3DFDEY?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption class="caption">Quarter Final Round - University of Melbourne vs University of Auckland (Speedy Kiwi)</figcaption>
 
 ---
@@ -45,7 +45,7 @@ Even though the time was short, we were able to improve and develop upon the obs
 
 The day ended rather late as we continued tuning into the night, ensuring that the robot is capable of performing the required tasks both on the outer track and inner track. We mainly tested the robot on the outer track and then translated the improvements and changes to the inner track afterwards. Although the robot was not performing perfectly, we were still optimistic that we had a decent chance against other competitors.
 
-## Day 1 - Tuning in Sydney 
+## Day 1 - Tuning in Sydney
 The day started early as we had to make it to the airport to catch the flight scheduled for 8:50am. Due to the slight delay in takeoff, we were able to do some Labview coding for the finite state machine and revamp the image processing parsing. After touch-down, we took the train from Sydney Airport to Central Station and made our way to the Great Hall of UTS (University of Technology Sydney).
 
 Upon arrival at noon, majority of the other teams were already setup and started testing on various elements of the track. We immediately unpacked the robot and began our own calibration/testing, and this is where many issues arose.
@@ -147,7 +147,7 @@ After finishing the quarter final round, we proceeded to compete against RMIT Dy
 
 ---
 
-<iframe width="792" height="446" src="https://www.youtube.com/embed/QsvY94D5BZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="792" height="446" src="https://www.youtube.com/embed/nVlpfqC2Dqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption class="caption">Semi final round - University of Melbourne vs RMIT University (RMIT Dynamics)</figcaption>
 
 ---
@@ -169,8 +169,8 @@ For the outer track run, the robot almost made its way to the finish line withou
 
 ---
 
-<iframe width="792" height="446" src="https://www.youtube.com/embed/-01SdS8-T1c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption class="caption">Semi final round - University of Melbourne vs Victoria University of Wellington (VuW)</figcaption>
+<iframe width="792" height="446" src="https://www.youtube.com/embed/u6ml5qqQ_mM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption class="caption">Final round - University of Melbourne vs Victoria University of Wellington (VuW)</figcaption>
 
 ---
 
