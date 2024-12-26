@@ -1,0 +1,162 @@
+---
+title: "Travelling in China"
+layout: post
+date: 2024-12-25 11:00
+image:
+headerImage: false
+tag:
+- photography
+- travel
+- reflection
+star: false
+category: blog
+author:
+description: Blog post documenting my experience travelling through China for the first time.
+---
+
+## Transit through Chengdu
+
+While I was originally booking my trip, I misinterpreted one of my friends’ advice regarding booking the flights. The original idea was to have me flight directly to Hong Kong, then take the train into Shenzhen. However, that plan completely slipped past my mind while I was making the original booking and instead I booked a flight from Melbourne to Shenzhen with a stopover in Chengdu.
+
+This meant that I got to experience Sichuan Airlines for both international and domestic flights. The flights were okay, but foods were definitely a standout — thanks to their offering of Chinese Chilly Oil ([Lao Gan Ma, 老干妈](https://en.wikipedia.org/wiki/Lao_Gan_Ma)). I was pleasantly surprised that all domestic flights I took all served fairly decent hot meals, which is a **significant** step up from Australian domestic flights.
+
+After landing in Chengdu Tianfu International Airport, I had about 5 hours to clear customs and to wander around the airport. After clearing customs, I entered the domestic terminal where my connecting flight is, and immediately realised that I had no way of connecting to the ‘Free Wi-Fi’. In this airport, you need to use either a Chinese Mobile Number or a Free Wi-Fi Self-serve Kiosk, the latter being only available in Terminal 1 (and not the domestic terminal I was in).
+
+![First meal after landing in Chengdu Tianfu International Airport ](/assets/images/china_travel/first_meal.png)
+> First meal after landing in Chengdu Tianfu International Airport
+
+So there I was, on the lookout for a restaurant in the airport which supports foreign credit cards. It may sound strange to people who not travelled in China recently, but majority of the day-to-day payments are facilitated through QR codes — largest providers being WeChat Pay and AliPay. Fortunately, I was able to find a noodle shop (秦云老太婆攤攤面) which accepted Mastercard, and had a delicious bowl of tomato beef noodle soup.
+
+## Shenzhen (Day 1-3)
+
+A high school friend of mine kindly showed me around parts of Shenzhen over three days, which provided me a glimpse of the so-called ‘Chinese Silicone Valley’. I got to personally witness the large scale infrastructures which have been built up to support the ever-expanding hub of tech industries. This ranges from architecturally impressive metro stations, to the seemingly endless high rises in every single direction.
+
+It is undeniable that Shenzhen has made significant progress in the recent years, despite the turbulent past in China until 1980s and also the recent COVID pandemic. I really enjoyed the wide variety of food and drink options — which are all significantly more affordable than the closest equivalent options in Melbourne.
+
+At the same time, I wondered about the trade-offs behind all these growths. This turned out to be a topic which will re-surface during the next phase of my trip.
+
+![Gangxia North Station (Shenzhen Metro)](/assets/images/china_travel/IMG_4876.jpg)
+> Gangxia North Station (Shenzhen Metro)
+
+![Scenery from the top of Lianhuashan Park](/assets/images/china_travel/IMG_4910.jpg)
+> Scenery from the top of Lianhuashan Park
+
+## Suzhou (Day 4-5)
+
+On day 4 of my trip, I flew from Shenzhen to Shanghai and met up with a senior/mentor from graduate school, who mentored my team members and I when we participated in the National Instrument robotics competition. We then took a 30 minutes ride on the high speed rail and arrived in Suzhou for a short 2 days visit.
+
+Since we did not have that much time left after arrival, we visited the Suzhou Center Mall for dinner, then walked around the Jinji Lake for some night photography. Maybe it was due to the cold winter weather, there were very little people around, which made it an exceptionally good environment for photography.
+
+![**Jinji Lake** viewed from Suzhou Center Mall](/assets/images/china_travel/IMG_0042.jpg)
+> **Jinji Lake** viewed from Suzhou Center Mall
+
+![Suzhou Center Mall Shopping Plaza](/assets/images/china_travel/IMG_0059.jpg)
+> Suzhou Center Mall Shopping Plaza
+
+The next day, we visited the **Humble Administrator’s Garden**, which [has a fairly long history since around the 1500](https://en.wikipedia.org/wiki/Humble_Administrator's_Garden). Admittedly, I only read the Wikipedia entry *after* the visit. But I also felt that after having physically visited the garden, I can better relate to the long history of this world heritage site. I was very fortunate to have great weather and relatively few tourists in the area during my visit.
+
+![Humble Administrator's Garden (拙政园)](/assets/images/china_travel/IMG_0101.jpg)
+> Humble Administrator's Garden (拙政园)
+
+## Shanghai (Day 6-8)
+
+During the remaining days, I toured around two areas in Shanghai:
+
+- Tongji University Jiading Campus
+- Shanghai inner city area (including *The Bund*, waterfront area)
+
+### Tongji University Jiading Campus
+
+Tongji University has [four campuses in total](https://en.wikipedia.org/wiki/Tongji_University#Campus), each covering different areas of study. The Jiading Campus was where my friend was studying his PhD, which includes the various departments for arts and engineering. This campus was very well laid out, and it was clear that the administration has significantly invested in the infrastructure within this campus.
+
+Within the image below, you can see a small part of the Autonomous Vehicle Test Track, as well as the Maglev Test Track in the background. I cannot immediately recall any Australian university which has the same level of engineering infrastructure. From the perspective of a somewhat recent university graduate, I really believe that having this kind of infrastructure is key to rapid development and iterations.
+
+It was also pointed out to me that while there has been significant progress on these large scale infrastructure, there is still room for improvement on how these resources are used by the students and nearby industrial partners. To efficiently utilise these infrastructure, people need to be sufficiently trained to operate and document their progress, so that everything can be passed on to the subsequent cohort of students. If the graduating cohort of PhD students do not have a smooth transition/handover to the next cohort, this creates an additional gap and slows down future progress.
+
+![Autonomous Vehicle Test Track & Test Railway](/assets/images/china_travel/IMG_5058.jpg)
+> Autonomous Vehicle Test Track & Test Railway
+
+During my short stay, I got to briefly experience the daily lives of the students who live and study on-campus. I particularly enjoyed the food from the on-campus cafeteria, maybe because it was my first time trying them. I also toured around the various schools and departments, and coincidentally came across a poster of the *Forest Gump* movie in the School of Arts, which is currently on the top of my backlog (*I know I really should have watched this a long time ago*).
+
+![Lunch from one of the on campus cafeteria](/assets/images/china_travel/IMG_5057.jpg)
+> Lunch from one of the on campus cafeteria
+
+![Movie projector on display in the School of Arts](/assets/images/china_travel/IMG_5075.jpg)
+> Movie projector on display in the School of Arts
+
+![Forest Gump Movie Poster in the School of Arts](/assets/images/china_travel/IMG_5074.jpg)
+> Movie Poster in the School of Arts
+
+### Shanghai — Inner City
+
+I spent a day touring around the inner city of Shanghai which included:
+
+- Shanghai Museum on People's Square
+- 只想做一碗好吃 沪西老弄堂面馆(静安寺店) — *great noodle shop, highly recommended!*
+- Jing’an Temple (静安寺)
+- Yu Garden (豫园)
+- Walk along ‘The Bund’ (外滩)
+
+Despite being a fully packed day, I am still glad that I saw as much as I possibly could. The abundance of good and clean public restrooms and other infrastructure paints a stark contrast between Shanghai and New York City. I can still vividly recall struggling to find restrooms during my stay in NYC, to the point that you need to strategically plan ahead.
+
+![Taken while walking along ‘The Bund’ (外滩)](/assets/images/china_travel/IMG_0176.jpg)
+> Taken while walking along ‘The Bund’ (外滩)
+
+![Shanghai CBD Area *(with a timely display of drone light show)*](/assets/images/china_travel/IMG_0233.jpg)
+> Shanghai CBD Area *(with a timely display of drone light show)*
+
+![Another view of the inner CBD area](/assets/images/china_travel/IMG_0241.jpg)
+> Another view of the inner CBD area
+
+![Map of Shanghai from 1943](/assets/images/china_travel/IMG_5093.jpg)
+> Map of Shanghai from 1943
+
+## Infrastructure
+
+It was quite an experience to be able to see the various large scale infrastructure in China with my own eyes. This includes the timely domestic transportation options, which are primarily high speed rail and domestic flights. I encountered minimal to no delays throughout the whole duration of my trip.
+
+I was also somewhat surprised to see the deep ITS (intelligent transportation system) integration that the local navigations apps have with all the traffic light signals, which allowed the drivers to see exactly what the traffic flow and light signals are. Presumably, these are also used to perform larger scale city wide traffic data collection and optimisation.
+
+## Economy
+
+I wanted to write a bit about my thoughts on the economy of China and what I have heard throughout my trip, including first hand accounts from those who have been affected by the recent turbulent Chinese economy. Some of the more memorable ones are listed below.
+
+- **The inexperienced taxi driver:** For the taxi ride between the Shanghai Hongqiao Airport and the Tongji University Jiading Campus, we were picked up by a seemingly inexperienced taxi driver, which is a fairly rare sight, as he was unsure about how to handle the transaction for the tollway. It was only during the trip that we found out that he used to work for Shanghai Volkswagen Automotive for the past 32 years, and was very recently laid off due to lack in demand. The taxi driver remarked that the Shanghai Volkswagen completely missed the transition to the electric vehicle market.
+- **Outlook of PhD students:** During my stay at Tongji University, I had the pleasure of getting to know some of the close friends of my mentor, who were all fourth year PhD students. I was somewhat surprised to hear that all of them planned to pursue teaching in university after graduation. They explained to me that the path to teaching/research in university will be more stable due to the poor economic outlook and competitive job market. Even if you manage to get a good position, it may not be as secure as their equivalent counterpart in western tech companies. They explained to me that a trend started recently for tech workers in China, instead of getting permanent employment after your probation period, you get a 3 years contract which needs to be renewed *every 3 years*.
+    - *Side remark: This could be better explained if these tech workers are better compensated like western contract workers, unfortunately this does not seem to be the case.*
+- **Every 3 years:** To me, such 3 years contract implies that the companies who adopt this strategy likely have an oversupply of candidates, and is able to apply additional downward pressure. It is disheartening to see that the Chinese tech industries has resorted to adopt such approach. I wonder how this would play out in the longer term?
+
+There is still a degree of uncertainty in the economic outlook of the US and China. On one hand, the US clearly still has the technological advantage across various key fields like semiconductor chip design, artificial intelligence, space launch capability and quantum computing, China is increasingly taking lead on infrastructure (e.g. wide scale 5G deployment, high speed rail), electric vehicles/batteries manufacturing, as well as the wider manufacturing and supply chain for both domestic and international markets.
+
+![Gross domestic product (GDP), 1960 to 2022](/assets/images/china_travel/national-gdp-constant-usd-wb.png)
+> Gross domestic product (GDP), 1960 to 2022
+
+There is still the *possibility* of China overtaking US economy in the next few decades. However, [there is no clear consensus](https://archive.is/odOCE) on exactly when China’s GDP will over take the US. One thing to keep watch is how China will manage its aging and shrinking population, as well as how US will attempt to keep up its immigration policy, especially for skilled workers.
+
+## Functional Society
+
+> I have been in Asia for the last 3 months, mostly in Hong Kong. This society is **functional**. The people in stores are helpful, the public transport is clean and fast, and not once have I felt unsafe walking alone on the street at night. [(from George Hotz's blog)](https://geohot.github.io/blog/jekyll/update/2024/10/28/americas-future.html)
+
+At what point do you consider a society functional/dysfunctional? If you draw the comparison between US and China, the main tradeoff people point out would likely be political freedom. However, there are some long term issues in the US that I just cannot overlook, and I really believe these are significant/fundamental societal problems, which includes:
+
+- Social welfare structure and the lack thereof
+- Privatisation of health care
+- Crimes/gun violence — recent memorable event being [Bob Lee from San Francisco](https://news.ycombinator.com/item?id=35448899)
+
+I am not going to expand on the points above as they are all complex topics on their own. But my gut feel is that it will require someone with significant authority to make drastic changes to have a chance a fixing the societal problems in the US. At the current rate, there may come a point when skilled workers choose to immigrate elsewhere for better living conditions.
+
+## Conclusion
+
+This short trip through China offered me an invaluable perspective on the country’s infrastructure, culture, and economy. From the tech-driven urban landscape of Shenzhen to the historically rich gardens of Suzhou and the dynamic cityscape of Shanghai, I witnessed firsthand the rapid development and complexities of modern China. The seamless integration of transportation systems, vibrant food culture, and technological infrastructure left a strong impression on me.
+
+However, the undercurrents of economic uncertainty and societal trade-offs were equally striking. Conversations with locals—ranging from taxi drivers affected by industry shifts to PhD students weighing their career options—highlighted the challenges of navigating an increasingly competitive and uncertain job market. These stories underscored the resilience of individuals, but also the vulnerabilities within China’s broader economic framework.
+
+Comparing this to other parts of the world, such as the US, brings into sharp focus the stark differences in societal structures. While China excels in large-scale infrastructure and technological deployment, challenges like aging demographics and employment dynamics loom large. Conversely, the US faces its own long-term societal challenges, including healthcare and public safety, which could have profound implications for its global competitiveness.
+
+Ultimately, my journey through China was as much about personal exploration as it was about reflecting on the broader narratives shaping our world. It left me contemplating the balance between economic growth and societal well-being, and the factors that make a society truly functional. These are questions I’ll continue to ponder as I observe and experience more of the world.
+
+## Special Thanks
+
+Many thanks to my friends Winston and Neo, for showing me around Shenzhen and Suzhou/Shanghai respectively. Without them, this trip would not have been possible.
+
+I am also grateful for all the people I met throughout the trip, especially those who stepped in when I was in need of assistance.

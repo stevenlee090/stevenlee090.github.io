@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer, with some background in mechatronics, robotics and machine learning. I intend to use this blog to share thoughts on things I come across in life.
+I am a software engineer, with some background in mechatronics, robotics and machine learning. I occassionally update this blog with things I come across.
 
 For more photography content, I can be found on [Instagram](https://www.instagram.com/stevenlee090/) and [500px](https://500px.com/stevenlee090).
 
