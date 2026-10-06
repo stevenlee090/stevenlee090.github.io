@@ -1,7 +1,7 @@
 ---
 title: "evcc on an Old Laptop: Solar-Only Tesla Charging"
 layout: post
-date: 2026-10-06 21:00
+date: 2026-10-06 18:00 +1100
 image:
 headerImage: false
 tag:
