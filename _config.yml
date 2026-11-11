@@ -3,69 +3,50 @@ author:
   name: Steven Lee
   email: stevenlee090@gmail.com
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
+# Used in the page <meta> description (search results / link previews) and feed.xml.
+description: >-
+  Notes on software, robotics, machine learning, photography and travel.
 
 # Build settings
-
-# If you clone the Minima repo and build locally, use this setting.
-# theme: minima
-
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and
-# add a line comment on "theme: minima" above.
-remote_theme: jekyll/minima
+# Theme comes from the Gemfile (pinned commit of jekyll/minima). Built and deployed by
+# .github/workflows/pages.yml, not the legacy GitHub Pages builder.
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Theme-specific settings
+# Silence Sass deprecation noise coming from the theme's use of @import.
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
-# If you want to link only specific pages in your header, use this and add the path to the pages
-# in order as they should show up.
-header_pages:
-  - about.md
+# Google Analytics (only rendered when JEKYLL_ENV=production)
+google_analytics: G-XMQLV7EHQ2
 
-# Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
-
-# Minima specific settings, which are only available from Minima 3.0 onward.
+# Minima settings (v3 / master). See https://github.com/jekyll/minima#customization
 minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
+  # classic | dark | auto | solarized-light | solarized-dark | solarized
   skin: auto
 
-  # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #date_format: "%b-%d-%Y"
+  # Pages linked in the site header, in order.
+  nav_pages:
+    - about.md
 
-  # Generate social links in footer.
+  # Show post excerpts on the homepage.
+  show_excerpts: false
+
+  # Default is "%b %-d, %Y" (e.g. Nov 14, 2023).
+  # date_format: "%b-%d-%Y"
+
+  # Icons come from Font Awesome; `icon: github` -> `fa-github`.
   social_links:
-  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-  #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-   - { platform: github,         user_url: "https://github.com/stevenlee090" }
-  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-   - { platform: instagram,      user_url: "https://www.instagram.com/stevenlee090/" }
-  #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in" }
-  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-  #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-  #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
-  #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+    - title: GitHub
+      icon: github
+      url: "https://github.com/stevenlee090"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/stevenlee090/"
 
-# Google Analytics
-google_analytics: G-XMQLV7EHQ2
+  # The RSS link was hidden on the old site; keep it hidden.
+  hide_site_feed_link: true
