@@ -23,7 +23,7 @@ description: Modelling gyroscope using MATLAB.
 ---
 
 ## Gyroscope Motion Simulation
-For the past few days, I have been working on a group project which is focused on modelling, simulating and animating the dynamic system of a gyroscope. The gyroscope used is composed of two rigid bodies, the frame and the rotor. The system has four degrees of freedom, since the frame can rotate about $x, y, z$ axes, while the rotor can only rotate about the rotor shaft.
+For the past few days, I have been working on a group project which is focused on modelling, simulating and animating the dynamic system of a gyroscope. The gyroscope used is composed of two rigid bodies, the frame and the rotor. The system has four degrees of freedom, since the frame can rotate about $$x, y, z$$ axes, while the rotor can only rotate about the rotor shaft.
 
 ### Procedure of Analysis
 1. Record video of gyroscope motion
@@ -40,13 +40,13 @@ $$ \sum F_{object} = m_{object} \cdot \ddot{r}_{OG} $$
 
 $$ \sum M_{object}^G = \dot{h}_{object}^G $$
 
-$G$ is the centre of mass of the object and
+$$G$$ is the centre of mass of the object and
 
 $$ ^{f}\dot{h}_{object}^G = ^{f}h_{object}^{G\prime} + ^{f}\omega_{f} \times ^{f}h_{object}^{G} $$
 
 $$ ^{f}h_{object}^G = ^{f}I^G \cdot ^{f}\omega_{f} $$
 
-$f$ is the frame which the calculation is taking place. The prime symbol denotes taking derivative with respect to time.
+$$f$$ is the frame which the calculation is taking place. The prime symbol denotes taking derivative with respect to time.
 
 In the case of analysing the gyroscope rotor, there will be three resulting linear Newton-Euler equations and three angular Newton-Euler equations, which totals to six equations. However, the **rotor only has one degree of freedom**, therefore there will be **one equation of motion for the rotor component**. On the other hand, the frame will have **three equations of motion because it has three degrees of freedom**.
 
